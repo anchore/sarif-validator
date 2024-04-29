@@ -1,0 +1,15 @@
+{
+  "name": "sarif-validator",
+  "version": "0.0.0",
+  "description": "SARIF file validator",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Keith Zantow <kzantow@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "jest": "29.7.0",
+    "@microsoft/jest-sarif": "1.0.0-beta.0",
+    "tslib": "2.6.2"
+  }
+}
