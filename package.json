@@ -10,6 +10,6 @@
   "dependencies": {
     "jest": "29.7.0",
     "@microsoft/jest-sarif": "1.0.0-beta.0",
-    "tslib": "2.6.3"
+    "tslib": "2.7.0"
   }
 }
